@@ -11,7 +11,7 @@ const Users = () => {
     // state ---> loader
     // use effect
     // fetch ---> state set ---> set state
-    console.log(users);
+    // console.log(users);
     return (
         <div>
             <h2>Our Users: {users.length}</h2>
